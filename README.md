@@ -16,11 +16,11 @@ Keep Learning !!
 
 | No            | Categories    |  
 | ------------- |:-------------| 
-| 1             | [Coding Plateforms](https://github.com/developer-student-clubs/dev-resources/#coding-plateforms) |
-| 2             | [Learning Plateforms](https://github.com/developer-student-clubs/dev-resources/#learning-plateforms) |
+| 1             | [Coding Platforms](https://github.com/developer-student-clubs/dev-resources/#coding-platforms) |
+| 2             | [Learning Platforms](https://github.com/developer-student-clubs/dev-resources/#learning-platforms) |
 | 3             | [Hosting](https://github.com/developer-student-clubs/dev-resources/#hosting) |
 
-### Coding Plateforms
+### Coding Platforms
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----: |
@@ -28,7 +28,7 @@ Keep Learning !!
 | CodeForces    | https://codeforces.com/ |  Programming competitions and contests, programming community.  |
 
 
-### Learning Plateforms
+### Learning Platforms
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -45,4 +45,4 @@ Keep Learning !!
  
  
 <br/><br/>
-*Note : Usage of plateforms/sites/tools are subjected to personal interest.* 
+*Note : Usage of platforms/sites/tools are subjected to personal interest.* 
