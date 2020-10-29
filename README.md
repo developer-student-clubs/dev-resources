@@ -14,12 +14,11 @@
 
 Keep Learning !!
 
-
 | No            | Categories    |  
 | ------------- |:-------------| 
-| 1             | [Coding Plateforms](https://github.com/developer-student-clubs/dev-resources/master/README.md#coding-plateforms) |
-| 2             | [Learning Plateforms](https://github.com/developer-student-clubs/dev-resources/master/README.md#learning-plateforms) |
-| 3             | [Hosting](https://github.com/developer-student-clubs/dev-resources/master/README.md#hosting) |
+| 1             | [Coding Plateforms](https://github.com/developer-student-clubs/dev-resources/#coding-plateforms) |
+| 2             | [Learning Plateforms](https://github.com/developer-student-clubs/dev-resources/#learning-plateforms) |
+| 3             | [Hosting](https://github.com/developer-student-clubs/dev-resources/#hosting) |
 
 ### Coding Plateforms
 
@@ -43,5 +42,7 @@ Keep Learning !!
 | GitHub Pages | https://pages.github.com/ | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
 | Netlify | https://netlify.com  | Offers hosting and serverless backend services for web applications and static websites. 
  
-
+ 
+ 
+<br/><br/>
 *Note : Usage of plateforms/sites/tools are subjected to personal interest.* 
