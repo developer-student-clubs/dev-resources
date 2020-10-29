@@ -2,7 +2,7 @@
 name: Resources Addition
 about: Add resources
 title: Add resource <resource_name> under <resource_category>
-labels: ''
+labels: add-resources
 assignees: ''
 
 ---
