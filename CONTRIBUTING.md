@@ -1,4 +1,6 @@
 # Contribution guidelines
+
+- **Thanks** that you have decided to contribute to this repo.
 - When contributing to this repository, please first discuss the change you wish to make via issue.
 - Only one resource per issue.
 
@@ -6,14 +8,16 @@
 Our project uses the [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 
 The steps to make your first contribution to this project are as follows :
-  - Create issue for proposed resource.
-  - Once Assigned, fork the repository.
+  - Create [issue](https://github.com/developer-student-clubs/dev-resources/issues/new/choose) for proposed resource or category.
+  - Once Assigned, [fork the repository](https://github.com/developer-student-clubs/dev-resources/fork).
   - Clone that forked repository to your local environment.
   - Create feature branch. (name : feature-x, <resource->, patch-x)
   - Update Readme file.
   - Commit the changes.
   - Push to origin and create PR.
   - Wait to merge!
+  
+> [Blog on how to make PR](https://opensource.com/article/19/7/create-pull-request-github)
  
  
 ## Code of Conduct
