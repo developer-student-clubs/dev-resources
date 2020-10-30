@@ -7,8 +7,7 @@
  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/developer-student-clubs/dev-resources/blob/master/LICENSE)
  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-
+- *Don't bookmark* every important link, Just Star :star: this Repo!
 - Open for PRs :rocket: .
 - When contributing, **please try to follow the rules outlined in [Contributing Guidelines](https://github.com/developer-student-clubs/dev-resources/blob/master/CONTRIBUTING.md)**.
 
@@ -96,3 +95,6 @@
 
 <br/><br/>
 *Note : Usage of platforms/sites/tools are subjected to personal interest.* 
+
+Thanks to all enthusiastic [Contributors](https://github.com/developer-student-clubs/dev-resources/graphs/contributors) !!
+
