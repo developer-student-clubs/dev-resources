@@ -10,11 +10,17 @@ Our project uses the [GitHub Flow](https://guides.github.com/introduction/flow/i
 The steps to make your first contribution to this project are as follows :
   - Create [issue](https://github.com/developer-student-clubs/dev-resources/issues/new/choose) for proposed resource or category.
   - Once Assigned, [fork the repository](https://github.com/developer-student-clubs/dev-resources/fork).
-  - Clone that forked repository to your local environment.
-  - Create feature branch. (name : feature-x, <resource->, patch-x)
+  - Clone that forked repository to your local environment. <br/>
+    ```$ git clone <url_for_forked_repo>```
+  - Create feature branch. (name : feature-x, resource-x, patch-x). <br/>
+    ```$ git checkout -b <branch_name>```
   - Update Readme file.
-  - Commit the changes.
-  - Push to origin and create PR.
+  - Commit the changes. <br/>
+    ```$ git add README.md``` <br/>
+    ```$ git commit -m "add resource_name under category_name" ``` 
+  - Push to origin. <br/>
+    ```$ git push origin <branch_name> ```
+  - Create PR through GitHub.
   - Wait to merge!
   
 > [Blog on how to make PR](https://opensource.com/article/19/7/create-pull-request-github)
@@ -40,3 +46,5 @@ Examples of unacceptable behavior by participants include:
  - Public or private harassment
  - Publishing others' private information, such as a physical or electronic address, without explicit permission
  - Other conduct which could reasonably be considered inappropriate in a professional setting
+
+*Right Reserved @DSC DDU 2020*
