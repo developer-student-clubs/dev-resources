@@ -97,8 +97,8 @@
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
-|               |               |        |
-
+| freeCodeCamp.org | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | One of the best youtube channels on youtube to learn and understand programming languages ans new technologies |
+| Traversy Media | https://www.youtube.com/user/TechGuyWeb | This the one of the best youtube channels to learn and master Web Development, more focused on JaVaScript |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
