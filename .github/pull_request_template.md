@@ -1,9 +1,9 @@
 
 #### Changes done,
--
-- 
+- In Youtube catagory
+- Added 2 youtube channels in the list
 
 
-Fix #<issue_number>
+Fix #1
 
 Kindly Review.
