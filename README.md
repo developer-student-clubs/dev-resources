@@ -24,6 +24,7 @@
 | 5             | [Fonts](#fonts) |
 | 6             | [Color Palettes](#color-palettes) |
 | 7             | [Static Site Generators](#static-site-generators) |
+| 8             | [Youtube Channels](#youtube-channels) |
 
 ### Coding Platforms
 
@@ -88,6 +89,15 @@
 | ------------- |:-------------:| :-----:|
 |   Hugo  | https://gohugo.io/ | With its amazing speed and flexibility, Hugo makes building websites fun again. |
 | 11ty |  https://www.11ty.dev/ | Eleventy is a simpler static site generator. |
+
+
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
+
+### Youtube Channels
+
+| Name          | URL           | Description |
+| ------------- |:-------------:| :-----:|
+|               |               |        |
 
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
