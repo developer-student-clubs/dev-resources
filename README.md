@@ -60,6 +60,7 @@
 | ------------- |:-------------:| :-----:|
 | ICONS8 | https://icons8.com/  | FREE Icons, Photos,Vectors, Music, AND Tools. |
 | Font Awesome | https://fontawesome.com/ | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
+| Radix Icons | https://icons.modulz.app/ | A crisp set of 15x15 icons designed by the Modulz team. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
@@ -99,6 +100,7 @@
 | ------------- |:-------------:| :-----:|
 | freeCodeCamp.org | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | One of the best youtube channels on youtube to learn and understand programming languages ans new technologies |
 | Traversy Media | https://www.youtube.com/user/TechGuyWeb | This the one of the best youtube channels to learn and master Web Development, more focused on JaVaScript |
+| Devstackr | https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A | Tutorial series to build real world applications from scratch with Angular and Node.js. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
