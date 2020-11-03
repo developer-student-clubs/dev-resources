@@ -51,7 +51,8 @@
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
 | GitHub Pages | https://pages.github.com/ | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
-| Netlify | https://netlify.com  | Offers hosting and serverless backend services for web applications and static websites. 
+| Netlify | https://netlify.com  | Offers hosting and serverless backend services for web applications and static websites.
+| Heroku | https://www.heroku.com/  | It's a cloud platform as a service based on containerization technology.  
  
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
