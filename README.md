@@ -17,16 +17,16 @@
 
 | No            | Categories    |  
 | ------------- |:-------------| 
-| 1             | [Coding Platforms](https://github.com/developer-student-clubs/dev-resources/#coding-platforms) |
-| 2             | [Learning Platforms](https://github.com/developer-student-clubs/dev-resources/#learning-platforms) |
-| 3             | [Hosting](https://github.com/developer-student-clubs/dev-resources/#hosting) |
-| 4             | [Icons](#icons) |
-| 5             | [Fonts](#fonts) |
-| 6             | [Color Palettes](#color-palettes) |
-| 7             | [Static Site Generators](#static-site-generators) |
-| 8             | [Youtube Channels](#youtube-channels) |
+| 1             | [Coding Platforms](https://github.com/developer-student-clubs/dev-resources/#res-links) |
+| 2             | [Learning Platforms](https://github.com/developer-student-clubs/dev-resources/#res-links) |
+| 3             | [Hosting](https://github.com/developer-student-clubs/dev-resources/#res-links) |
+| 4             | [Icons](#res-links) |
+| 5             | [Fonts](#res-links) |
+| 6             | [Color Palettes](#res-links) |
+| 7             | [Static Site Generators](#res-links) |
+| 8             | [Youtube Channels](#res-links) |
 
-### Coding Platforms
+### res links
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----: |
@@ -36,7 +36,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Learning Platforms
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -45,7 +45,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Hosting
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -54,7 +54,7 @@
  
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Icons
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -64,7 +64,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Fonts
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -75,7 +75,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Color Palettes
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -84,7 +84,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Static Site Generators
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
@@ -94,7 +94,7 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
-### Youtube Channels
+
 
 | Name          | URL           | Description |
 | ------------- |:-------------:| :-----:|
