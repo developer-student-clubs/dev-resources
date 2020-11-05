@@ -28,53 +28,53 @@
 
 ### Coding Platforms
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----: |
-| LeetCode      | https://leetcode.com/ | Large Plateform with company wise problems. |
-| CodeForces    | https://codeforces.com/ |  Programming competitions and contests, programming community.  |
-| Codechef  	| https://www.codechef.com/ |  Competitive coding website to improve your problem solving skills.  |
-| HackerRank  	| https://www.hackerrank.com/ |  HackerRank is the market-leading technical assessment and remote interview solution for hiring developers  |
-| HackerEarth  	| https://www.hackerearth.com/|  HackerEarth provide good tutorials of Data Structure and used by organizations for technical skill assessment and remote video interviewing.  |
-| InterviewBit  | https://www.interviewbit.com/ | Learn and Practice on almost all coding interview questions asked historically, good for quickly preapare for upcoming interview.    |
+| Name          | Description |
+| ------------- | :-----: |
+| [LeetCode](https://leetcode.com/)       | Large Plateform with company wise problems. |
+| [CodeForces](https://codeforces.com/)      |  Programming competitions and contests, programming community.  |
+| [Codechef](https://www.codechef.com/)  	  |  Competitive coding website to improve your problem solving skills.  |
+| [HackerRank](https://www.hackerrank.com/)  	 |  HackerRank is the market-leading technical assessment and remote interview solution for hiring developers  |
+| [HackerEarth](https://www.hackerearth.com/)  	 |  HackerEarth provide good tutorials of Data Structure and used by organizations for technical skill assessment and remote video interviewing.  |
+| [InterviewBit](https://www.interviewbit.com/) | Learn and Practice on almost all coding interview questions asked historically, good for quickly preapare for upcoming interview.    |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Learning Platforms
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-|  edX    | https://www.edx.org/ | edX is an American massive open online course provider created by Harvard and MIT. |
-|  Khan Academy   | http://khanacademy.org/ | The organization produces short lessons in the form of videos. |
+| Name          | Description |
+| ------------- | :-----:|
+|  [edX](https://www.edx.org/) | edX is an American massive open online course provider created by Harvard and MIT. |
+|  [Khan Academy](http://khanacademy.org/) | The organization produces short lessons in the form of videos. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Hosting
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-| GitHub Pages | https://pages.github.com/ | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
-| Netlify | https://netlify.com  | Offers hosting and serverless backend services for web applications and static websites. |
-| Heroku | https://www.heroku.com/  | It's a cloud platform as a service based on containerization technology.  |
-| GoDaddy | https://in.godaddy.com/  | GoDaddy is an American publicly traded Internet domain registrar and web hosting company. it has more than 20 million customers. |
+| Name          | Description |
+| ------------- | :-----:|
+| [GitHub Pages](https://pages.github.com/) | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
+| [Netlify](https://netlify.com)  | Offers hosting and serverless backend services for web applications and static websites. |
+| [Heroku](https://www.heroku.com/)  | It's a cloud platform as a service based on containerization technology.  |
+| [GoDaddy](https://in.godaddy.com/)  | GoDaddy is an American publicly traded Internet domain registrar and web hosting company. it has more than 20 million customers. |
  
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Icons
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-| ICONS8 | https://icons8.com/  | FREE Icons, Photos,Vectors, Music, AND Tools. |
-| Font Awesome | https://fontawesome.com/ | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
-| Radix Icons | https://icons.modulz.app/ | A crisp set of 15x15 icons designed by the Modulz team. |
+| Name          | Description |
+| ------------- | :-----:|
+| [ICONS8](https://icons8.com/)  | FREE Icons, Photos,Vectors, Music, AND Tools. |
+| [Font Awesome](https://fontawesome.com/) | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
+| [Radix Icons](https://icons.modulz.app/) | A crisp set of 15x15 icons designed by the Modulz team. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Fonts
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-| Google Fonts | https://fonts.google.com/ | An interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android |
-| Da Fonts  | https://www.dafont.com/ | Archive of freely downloadable fonts. |
+| Name          | Description |
+| ------------- | :-----:|
+| [Google Fonts](https://fonts.google.com/) | An interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android |
+| [Da Fonts](https://www.dafont.com/) | Archive of freely downloadable fonts. |
 
 
 
@@ -82,32 +82,32 @@
 
 ### Color Palettes
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-| Color Hunt | https://colorhunt.co/  | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes. |
-| Color Hex | https://www.color-hex.com/ | Colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. |
-| Coolors | https://coolors.co/ | Generate or browse beautiful color combinations for your designs. |
+| Name          | Description |
+| ------------- | :-----:|
+| [Color Hunt](https://colorhunt.co/)  | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes. |
+| [Color Hex](https://www.color-hex.com/) | Colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page. |
+| [Coolors](https://coolors.co/) | Generate or browse beautiful color combinations for your designs. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Static Site Generators
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-|   Hugo  | https://gohugo.io/ | With its amazing speed and flexibility, Hugo makes building websites fun again. |
-| 11ty |  https://www.11ty.dev/ | Eleventy is a simpler static site generator. |
+| Name          | Description |
+| ------------- | :-----:|
+|   [Hugo](https://gohugo.io/) | With its amazing speed and flexibility, Hugo makes building websites fun again. |
+|   [11ty](https://www.11ty.dev/) | Eleventy is a simpler static site generator. |
 
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 ### Youtube Channels
 
-| Name          | URL           | Description |
-| ------------- |:-------------:| :-----:|
-| freeCodeCamp.org | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ | One of the best youtube channels on youtube to learn and understand programming languages ans new technologies |
-| Traversy Media | https://www.youtube.com/user/TechGuyWeb | This the one of the best youtube channels to learn and master Web Development, more focused on JaVaScript |
-| Devstackr | https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A | Tutorial series to build real world applications from scratch with Angular and Node.js. |
-| Clever Programmer | https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ | Clone of all social media and web devlopment and make website with react.|
+| Name          | Description |
+| ------------- | :-----:|
+| [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | One of the best youtube channels on youtube to learn and understand programming languages ans new technologies |
+| [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | This the one of the best youtube channels to learn and master Web Development, more focused on JaVaScript |
+| [Devstackr](https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A) | Tutorial series to build real world applications from scratch with Angular and Node.js. |
+| [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) | Clone of all social media and web devlopment and make website with react.|
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
