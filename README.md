@@ -33,7 +33,7 @@
 | LeetCode      | https://leetcode.com/ | Large Plateform with company wise problems. |
 | CodeForces    | https://codeforces.com/ |  Programming competitions and contests, programming community.  |
 | Codechef  	| https://www.codechef.com/ |  Competitive coding website to improve your problem solving skills.  |
-| HackerRank  	| https://www.hackerrank.com/ |  HackerRank is the market-leading technical assessment and remote interview solution for hiring developers  |
+| HackerRank  	| https://www.hackerrank.com/ |  HackerRank is the market-leading technical assessment and remote interview solution for hiring developers.  |
 | HackerEarth  	| https://www.hackerearth.com/|  HackerEarth provide good tutorials of Data Structure and used by organizations for technical skill assessment and remote video interviewing.  |
 | InterviewBit  | https://www.interviewbit.com/ | Learn and Practice on almost all coding interview questions asked historically, good for quickly preapare for upcoming interview.    |
 
