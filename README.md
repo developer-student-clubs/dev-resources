@@ -25,6 +25,7 @@
 | 6             | [Color Palettes](#color-palettes) |
 | 7             | [Static Site Generators](#static-site-generators) |
 | 8             | [Youtube Channels](#youtube-channels) |
+| 9             | [Illustrations](#illustrations) |
 
 ### Coding Platforms
 
@@ -66,6 +67,8 @@
 | [ICONS8](https://icons8.com/)  | FREE Icons, Photos,Vectors, Music, AND Tools. |
 | [Font Awesome](https://fontawesome.com/) | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
 | [Radix Icons](https://icons.modulz.app/) | A crisp set of 15x15 icons designed by the Modulz team. |
+| [Tabler Icons](https://tablericons.com/) | Fully customizable free SVG icons. |
+| [Devicon](https://devicon.dev/) | Devicon is a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project. |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
@@ -111,6 +114,15 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
+### Illustrations
+
+| Name          | Description |
+| ------------- | :-----:|
+| [Drawkit](https://www.drawkit.io/) | 100% free! Hand-drawn vector illustration and icon resources, perfect for your next project. |
+| [Ira Design](https://iradesign.io/) | Amazing illustrations using gradients. |
+| [Blush Design](https://blush.design/) | Easily create and customize stunning illustrations with collections made by artists across the globe. |
+
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
 <br/><br/>
 *Note : Usage of platforms/sites/tools are subjected to personal interest.* 
