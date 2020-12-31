@@ -107,7 +107,7 @@
 
 | Name          | Description |
 | ------------- | :-----:|
-| [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | One of the best youtube channels on youtube to learn and understand programming languages ans new technologies |
+| [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | One of the best youtube channels on youtube to learn and understand programming languages and new technologies |
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | This the one of the best youtube channels to learn and master Web Development, more focused on JaVaScript |
 | [Devstackr](https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A) | Tutorial series to build real world applications from scratch with Angular and Node.js. |
 | [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) | Clone of all social media and web devlopment and make website with react.|
