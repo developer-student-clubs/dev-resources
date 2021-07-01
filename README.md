@@ -112,6 +112,14 @@
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | This the one of the best youtube channels to learn and master Web Development, more focused on JavaScript |
 | [Devstackr](https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A) | Tutorial series to build real world applications from scratch with Angular and Node.js. |
 | [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) | Clone of all social media and web devlopment and make website with react.|
+| [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/featured) | All tutorial related to DSA & Competitive Programming.|
+| [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured) | Best Explanation of data structures and algorithm.|
+| [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) | System design video for begineer in simplest form.|
+| [Neal Wu](https://www.youtube.com/channel/UC6MXTfIi_pSMxwPQDKT2VGg) | Competitive Programming Live streaming of contest. |
+| [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw) | Web Dev related stuff. |
+| [Reso Coder](https://www.youtube.com/c/ResoCoder/featured) | Everything you need to learn about Flutter.|
+| [Tech With Tim ](https://www.youtube.com/c/TechWithTim/featured) | Software Engineering, Machine Learning, Web Dev and everything about python.|
+| [CodeWithHarry ](https://www.youtube.com/c/CodeWithHarry/featured) | Beginner  friendly tutorial for every topic in hindi.|
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
