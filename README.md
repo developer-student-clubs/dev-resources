@@ -114,12 +114,12 @@
 | [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) | Clone of all social media and web devlopment and make website with react.|
 | [CodeNCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/featured) | All tutorial related to DSA & Competitive Programming.|
 | [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured) | Best Explanation of data structures and algorithm.|
-| [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) | System design video for begineer in simplest form.|
+| [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) | System design video for beginner in simplest form.|
 | [Neal Wu](https://www.youtube.com/channel/UC6MXTfIi_pSMxwPQDKT2VGg) | Competitive Programming Live streaming of contest. |
 | [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw) | Web Dev related stuff. |
 | [Reso Coder](https://www.youtube.com/c/ResoCoder/featured) | Everything you need to learn about Flutter.|
 | [Tech With Tim ](https://www.youtube.com/c/TechWithTim/featured) | Software Engineering, Machine Learning, Web Dev and everything about python.|
-| [CodeWithHarry ](https://www.youtube.com/c/CodeWithHarry/featured) | Beginner  friendly tutorial for every topic in hindi.|
+| [CodeWithHarry ](https://www.youtube.com/c/CodeWithHarry/featured) | beginner  friendly tutorial for every topic in hindi.|
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
