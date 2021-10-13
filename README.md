@@ -37,7 +37,7 @@
 | [HackerRank](https://www.hackerrank.com/)  	 |  HackerRank is the market-leading technical assessment and remote interview solution for hiring developers  |
 | [HackerEarth](https://www.hackerearth.com/)  	 |  HackerEarth provide good tutorials of Data Structure and used by organizations for technical skill assessment and remote video interviewing.  |
 | [InterviewBit](https://www.interviewbit.com/) | Learn and Practice on almost all coding interview questions asked historically, good for quickly preapare for upcoming interview.    |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/) | Learn and Practice topic wise, Programming competitions and contests, Good for Internship opportunities and Job Opportunities.  |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/) | Learn and Practice, Programming competitions and contests, Good for Internship opportunities and Job Opportunities.  |
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
