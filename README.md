@@ -41,6 +41,15 @@
 
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
 
+
+### Onlin IDE
+| Name          | Description |
+| ------------- | :-----:|
+| [Replir](https://replit.com/)| Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. |
+| [JSFiddle](https://jsfiddle.net/) | Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. |
+
+[![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
+
 ### Learning Platforms
 
 | Name          | Description |
@@ -58,6 +67,7 @@
 | [GitHub Pages](https://pages.github.com/) | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. |
 | [Netlify](https://netlify.com)  | Offers hosting and serverless backend services for web applications and static websites. |
 | [Heroku](https://www.heroku.com/)  | It's a cloud platform as a service based on containerization technology.  |
+| [Appwrite](https://appwrite.io/) | Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application. Get Started GitHub.
 | [GoDaddy](https://in.godaddy.com/)  | GoDaddy is an American publicly traded Internet domain registrar and web hosting company. it has more than 20 million customers. |
  
 [![Back to top](https://img.shields.io/badge/Back%20to%20top-blue?style=flat)](#index)
